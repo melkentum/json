@@ -1,0 +1,14 @@
+{
+  "name": "json",
+  "version": "3.9.1",
+  "description": "PlatformIO wrapper for nlohmann's json library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melkentum/json.git"
+  },
+  "framework": "*",
+  "platform": "native",
+  "build": {
+    "srcDir": "include"
+  }
+}
